@@ -17,6 +17,12 @@ Test your knowledge, answer questions within a time limit, track your score, and
 - **Responsive Design:** Optimized for desktop and mobile screens.
 - **Component-Based Architecture:** Reusable React components and TypeScript interfaces.
 
+## Project Reference
+
+This project is based on the [Quiz App challenge](https://roadmap.sh/projects/quiz-app) from [roadmap.sh](https://roadmap.sh).
+
+The goal is to build a browser-based multiple-choice quiz application with interactive questions, instant answer feedback, score tracking, and optional timed questions.
+
 ## Tech Stack
 
 - React
